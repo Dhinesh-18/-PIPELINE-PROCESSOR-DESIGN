@@ -29,3 +29,5 @@ DELIVERABLES:
 ✅ Processor Verilog/VHDL Code ✅ Testbench for Functional Verification ✅ Simulation Showing Each Pipeline Stage
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/e13da4cf-d70b-42ab-ac69-955000678246)
+![Image](https://github.com/user-attachments/assets/c057dfc2-784d-4a1f-ae1f-79808a882f22)
